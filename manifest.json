@@ -5,19 +5,19 @@
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0a0a0a",
-  "theme_color": "#0a0a0a",
+  "background_color": "#080808",
+  "theme_color": "#080808",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='42' fill='%23FF5500'/><path d='M48 60L87 96L48 132' stroke='white' stroke-width='16' stroke-linecap='round' stroke-linejoin='round' fill='none'/><path d='M96 60H144' stroke='white' stroke-width='16' stroke-linecap='round'/><path d='M96 96H126' stroke='white' stroke-width='16' stroke-linecap='round'/><path d='M96 132H144' stroke='white' stroke-width='16' stroke-linecap='round'/></svg>",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='112' fill='%23FF5500'/><path d='M128 160L232 256L128 352' stroke='white' stroke-width='40' stroke-linecap='round' stroke-linejoin='round' fill='none'/><path d='M256 160H384' stroke='white' stroke-width='40' stroke-linecap='round'/><path d='M256 256H336' stroke='white' stroke-width='40' stroke-linecap='round'/><path d='M256 352H384' stroke='white' stroke-width='40' stroke-linecap='round'/></svg>",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/svg+xml",
       "purpose": "any maskable"
     }
   ],
